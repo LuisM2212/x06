@@ -13,7 +13,12 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
+<<<<<<< HEAD
           sudo apt-get install -y -f build-essential g++ cmake
+=======
+          sudo apt-get install -y build-essential g++ cmake
+
+>>>>>>> 31202bd (C++ build)
   build:
     needs: install
     runs-on: ubuntu-latest
