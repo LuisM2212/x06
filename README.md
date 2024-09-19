@@ -1,3 +1,4 @@
+[![.github/workflows/main.yml](https://github.com/LuisM2212/x06/actions/workflows/main.yml/badge.svg)](https://github.com/LuisM2212/x06/actions/workflows/main.yml)
 <<<<<<< HEAD
 <<<<<<< HEAD
 # x06
